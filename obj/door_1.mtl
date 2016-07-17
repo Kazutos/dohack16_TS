@@ -1,0 +1,14 @@
+# Blender MTL File: 'door_1.blend'
+# Material Count: 1
+
+newmtl door
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.093496 0.093496 0.093496
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F:\Eigene Dokumente\sicherung\textures\TexturesCom_DoorsWood0140_1_S.jpg
+map_Bump -bm 0.290000 F:\\Eigene Dokumente\\sicherung\\textures\\TexturesCom_DoorsWood0140_1_S.jpg
